@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile!
-I am currently a master student at the [University of Bergen](https://uib.no) in computer ccience with specialization in algorithms
+I am currently a master student at the [University of Bergen](https://uib.no) in computer science with specialization in algorithms
 and a trainee fullstack developer at [Visito](https://visito.no).
 
 ## Links
